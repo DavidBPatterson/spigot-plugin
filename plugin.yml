@@ -1,0 +1,9 @@
+name: SpigotPlugin
+main: com.nerds.spigot.SpigotPlugin
+version: 1.0
+api-version: 1.17
+commands:
+   diamondz:
+      description: Gimme diamonds!
+      usage: /<command>
+      
